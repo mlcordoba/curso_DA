@@ -1,8 +1,10 @@
 # Curso Data Analytics
 Este repositorio contiene el material para el curso de Data Analytics
+
+
 Para lanzar el repositorio en Binder :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlcordoba/curso_DA/master)
-.. image:: https://mybinder.org/badge_logo.svg :target: https://mybinder.org/v2/gh/mlcordoba/curso_DA/master
+
 
 1 - MEDIO AMBIENTE DE TRABAJO
 1.1 Jupyter Notebook : Los notebooks suponen la fusión de editor de texto, herramienta de programación y soporte de visualizacion, todo ello accesible a través del browser. Son en la actualidad, de facto, el medio por el que se intercambia código y se muestran los resultados.
