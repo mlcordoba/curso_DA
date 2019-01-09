@@ -1,3 +1,11 @@
+# Curso Data Analytics
+Este repositorio contiene el material para el curso de Data Analytics
+
+
+Para lanzar el repositorio en Binder :
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlcordoba/curso_DA/master)
+
+
 1 - MEDIO AMBIENTE DE TRABAJO
 El objetivo es crear el medio ambiente de trabajo, desde el soporte (Jupyter notebook), pasando por el lenguaje (Python) y presentando las principales	herramientas para el análisis y visualización de los datos (Numpy, Pandas y Matplotlib)
 
